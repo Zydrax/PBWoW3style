@@ -1,9 +1,11 @@
-## PBWoW 3 Style for phpBB 3.3
+## PBWoW 3 Style for phpBB 3.2.8
 
 Author @Paybas, @Sajaki
 
+Updated by @Galixte
+
 ## requirements
-- phpBB 3.2 / 3.3
+- phpBB 3.2.x
 - pbwowExt (optional)
 
 ## Support
@@ -12,9 +14,6 @@ Author @Paybas, @Sajaki
 - http://www.ezcom-fr.com/viewtopic.php?f=13&t=74 (in French)
 
 ## Changes
-3.3.0 (07-07-2020)
-- updated for phpBB 3.3.0
-
 3.2.10 (07-07-2020)
 - support for S_PBWOW_SMALL_RANKS
 
@@ -92,5 +91,4 @@ Author @Paybas, @Sajaki
 This application is opensource software released under the GPL.
 We request that you retain the copyright notice below.
 
-## Credits 
-Thank you to @Galixte, @shadowfox for supporting 
+
