@@ -149,7 +149,8 @@
 					{% if postrow.POSTER_AVATAR %}
 						{% if postrow.U_POST_AUTHOR %}<a href="{{ postrow.U_POST_AUTHOR }}" class="avatar">{{ postrow.POSTER_AVATAR }}</a>{% else %}<span class="avatar">{{ postrow.POSTER_AVATAR }}</span>{% endif %}
 					{% endif %}
-				{% if S_PBWOW_SMALL_RANKS and (postrow.RANK_IMG) %}
+
+				{% if S_PBWOW_SMALL_RANKS %}
 				<div class="rank-icon">
 					 {{ postrow.RANK_IMG }}
 				</div>
